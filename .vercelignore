@@ -1,0 +1,7 @@
+.env*
+!.env.example
+.pglite
+.next
+node_modules
+coverage
+*.tsbuildinfo
